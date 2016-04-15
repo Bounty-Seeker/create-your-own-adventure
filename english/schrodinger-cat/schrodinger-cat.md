@@ -6,4 +6,6 @@ Also known as Quantum Superposition
 
 It is only when you open the box that you become either dead or alive.
 
-So [open the box](dead-or-alive/dead-or-alive.md).
+So [lift the lid](dead-or-alive/dead-or-alive.md).
+
+Random line.
